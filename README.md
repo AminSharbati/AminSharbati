@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="80%" src="./banner.png"/>
+<img width="100%" src="./banner.png"/>
 
 </div>
 
@@ -291,7 +291,7 @@ while alive:
 
 <div align="center">
 
-<img width="80%" src="./banner.png"/>
+<img width="100%" src="./banner.png"/>
 
 </div>
 
