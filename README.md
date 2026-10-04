@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-
+```yaml
 Name:
   Amin Sharbati
 
@@ -37,12 +37,13 @@ Experience:
 Location:
   Iran 💚🤍❤️
   Remote Worldwide 🌍
-
+```
 
 ---
 
 # 👨‍💻 whoami
 
+```python
 class AminSharbati:
 
     role = "Python Developer"
@@ -71,7 +72,7 @@ class AminSharbati:
     ]
 
     motto = "Build. Improve. Repeat."
-
+```
 ---
 
 # 🏢 Datin Aria Software Team
