@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-```yaml
+yaml
 Name:
   Amin Sharbati
 
@@ -37,7 +37,7 @@ Experience:
 Location:
   Iran 💚🤍❤️
   Remote Worldwide 🌍
-```
+
 
 ---
 
