@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-yaml
+
 Name:
   Amin Sharbati
 
@@ -43,7 +43,6 @@ Location:
 
 # 👨‍💻 whoami
 
-```python
 class AminSharbati:
 
     role = "Python Developer"
@@ -72,7 +71,6 @@ class AminSharbati:
     ]
 
     motto = "Build. Improve. Repeat."
-```
 
 ---
 
