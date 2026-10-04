@@ -29,7 +29,7 @@ Roles:
 
 Organization:
   Founder & Core Developer
-  Dotin Aria Software Team
+  Datin Aria Software Team
 
 Experience:
   Hardware Specialist (7+ Years)
